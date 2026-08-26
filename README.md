@@ -46,5 +46,6 @@ Esse foi um desafio muito bacana para reforçar os pilares da temida lógica de 
 🌐 Conecte-se Comigo!
 Gostou do projeto ou tem alguma sugestão de melhoria? Vamos trocar uma ideia!
 
-🐙 GitHub: Seu Nome de Usuário
+🐙 GitHub: HigorCamposGit.
+🌐[https://github.com/HigorCamposGit]([https://github.com/HigorCamposGit]
 🚀 Seguindo em frente e evoluindo, um commit de cada vez... Ufa !! 😅.
