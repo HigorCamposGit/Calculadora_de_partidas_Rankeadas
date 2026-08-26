@@ -1,20 +1,20 @@
-# 2️⃣ Calculadora de Partidas Rankeadas - DIO
+# 2️⃣ Calculadora de Partidas Rankeadas - DIO.
 
-Projeto desenvolvido como parte do bootcamp de lógica de programação da **Digital Innovation One (DIO)**. O objetivo é calcular o saldo de partidas rankeadas de um jogador e determinar seu nível com base na quantidade de vitórias.
+Este projeto foi desenvolvido para o curso de lógica de programação da **Digital Innovation One (DIO)**. Tem como objetivo  medir o ranking de um jogador para determinar seu nível de acordo com sua quantidade de vitórias.
 
 ---
 
-## 🛠️ Tecnologias e Conceitos Utilizados
+## 🛠️ Tecnologias e Conceitos Utilizados.
 
-- **Variáveis (`const` e `let`):** Armazenamento de vitórias, derrotas e patentes.
-- **Operadores Aritméticos e Lógicos:** Cálculo do saldo e validações de intervalos.
+- **Variáveis (`const` e `let`):** Armazena as vitórias, derrotas e o nível de cada jogador.
+- **Operadores Aritméticos e Lógicos:** Calcula e valida os intervalos.
 - **Estruturas de Decisão (`if / else if / else`):** Classificação do nível do herói.
-- **Funções:** Função `calcularRank()` para isolar a lógica de cálculo.
-- **Laços de Repetição (`for`):** Iteração sobre a lista de testes.
+- **Funções:** Função `calcularRank()` isolaa a lógica do cálculo.
+- **Laços de Repetição (`for`):** Iteração sobre a lista dos testes.
 
 ---
 
-## 📐 Regras de Classificação
+## 📐 Regras de Classificação.
 
 | Vitórias | Nível |
 |---|---|
@@ -28,7 +28,7 @@ Projeto desenvolvido como parte do bootcamp de lógica de programação da **Dig
 
 ---
 
-## 💬 Exemplo de Saída
+## 💬 Exemplo de como vai se a saída !!.
 
 ```text
 O Herói tem de saldo de **5** está no nível de **Ferro**
