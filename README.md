@@ -38,3 +38,13 @@ O Herói tem de saldo de **55** está no nível de **Ouro**
 O Herói tem de saldo de **76** está no nível de **Diamante**
 O Herói tem de saldo de **80** está no nível de **Lendário**
 O Herói tem de saldo de **90** está no nível de **Imortal**
+```
+
+🎯 Aprendizados e Próximos Passos
+Esse foi um desafio muito bacana para reforçar os pilares da temida lógica de programação. Montar a função e estruturar os testes me ajudou a entender na prática como manipular dados e condicionais em JavaScript.
+
+🌐 Conecte-se Comigo!
+Gostou do projeto ou tem alguma sugestão de melhoria? Vamos trocar uma ideia!
+
+🐙 GitHub: Seu Nome de Usuário
+🚀 Seguindo em frente e evoluindo, um commit de cada vez... Ufa !! 😅.
