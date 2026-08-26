@@ -1,6 +1,6 @@
 # 2️⃣ Calculadora de Partidas Rankeadas - DIO.
 
-Este projeto foi desenvolvido para o curso de lógica de programação da **Digital Innovation One (DIO)**. Tem como objetivo  medir o ranking de um jogador para determinar seu nível de acordo com sua quantidade de vitórias.
+Este projeto foi desenvolvido para o curso de lógica de programação ministrado pelo professor "Felipão" da **Digital Innovation One (DIO)**. A calculadora tem como objetivo  medir o ranking de um jogador para determinar seu nível de acordo com sua quantidade de vitórias.
 
 ---
 
@@ -11,6 +11,7 @@ Este projeto foi desenvolvido para o curso de lógica de programação da **Digi
 - **Estruturas de Decisão (`if / else if / else`):** Classificação do nível do herói.
 - **Funções:** Função `calcularRank()` isolaa a lógica do cálculo.
 - **Laços de Repetição (`for`):** Iteração sobre a lista dos testes.
+- **Github para entrega do projeto.
 
 ---
 
