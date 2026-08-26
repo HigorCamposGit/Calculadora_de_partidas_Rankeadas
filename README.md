@@ -44,8 +44,6 @@ O Herói tem de saldo de **90** está no nível de **Imortal**
 Esse foi um desafio muito bacana para reforçar os pilares da temida lógica de programação. Montar a função e estruturar os testes me ajudou a entender na prática como manipular dados e condicionais em JavaScript.
 
 🌐 Conecte-se Comigo!
-Gostou do projeto ou tem alguma sugestão de melhoria? Vamos trocar uma ideia!
-
 🐙 GitHub: HigorCamposGit.
-🌐[https://github.com/HigorCamposGit]([https://github.com/HigorCamposGit]
+🌐[https://github.com/HigorCamposGit]
 🚀 Seguindo em frente e evoluindo, um commit de cada vez... Ufa !! 😅.
