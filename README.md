@@ -11,7 +11,7 @@ Este projeto foi desenvolvido para o curso de lógica de programação ministrad
 - **Estruturas de Decisão (`if / else if / else`):** Classificação do nível do herói.
 - **Funções:** Função `calcularRank()` isolaa a lógica do cálculo.
 - **Laços de Repetição (`for`):** Iteração sobre a lista dos testes.
-- **Github para entrega do projeto.
+- **Github para entrega do projeto**.
 
 ---
 
